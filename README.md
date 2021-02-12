@@ -1,3 +1,4 @@
+Will Joyner
 # Flex Navbar
 
 ## Use `git` & `github` to set up this assignment
